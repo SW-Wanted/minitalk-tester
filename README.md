@@ -9,11 +9,6 @@ git clone https://github.com/SW-Wanted/minitalk-tester.git
 ```bash
 cd minitalk-tester
 ```
-### Permissões
-- Ter o arquivo `tester.sh` com as permissões de execução:
-```bash
-chmod +x tester.sh
-```
 ### Executar
 Para rodar o script de teste, utilize o seguinte comando:
 ```
