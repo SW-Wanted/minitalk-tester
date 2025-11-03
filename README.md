@@ -1,6 +1,12 @@
 # Minitalk Tester
 ---
 ## Como usar
+### Inicie o Servidor
+Inicie o servidor e copie o seu PID
+```bash
+./server
+```
+`PID = <PID>`
 ### Clone o repositorio
 ```bash
 git clone https://github.com/SW-Wanted/minitalk-tester.git
@@ -10,7 +16,7 @@ git clone https://github.com/SW-Wanted/minitalk-tester.git
 cd minitalk-tester
 ```
 ### Executar
-Para rodar o script de teste, utilize o seguinte comando:
+Execute o script de teste usando o seguinte comando:
 ```
 ./tester <PID> [<Repeat>]
 ```
